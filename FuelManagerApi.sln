@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelManagerApi", "FuelManagerApi\FuelManagerApi.csproj", "{8EC5B23D-42A6-43F4-9FCF-386AC1F2AA54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EC5B23D-42A6-43F4-9FCF-386AC1F2AA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC5B23D-42A6-43F4-9FCF-386AC1F2AA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC5B23D-42A6-43F4-9FCF-386AC1F2AA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC5B23D-42A6-43F4-9FCF-386AC1F2AA54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AD27E35-9C2A-4FF3-91D6-3E99E6850FC7}
+	EndGlobalSection
+EndGlobal
